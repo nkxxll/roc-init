@@ -12,8 +12,8 @@ release_urls = {
 }
 
 file_template_urls = {
-    cli: "https://raw.githubusercontent.com/nkxxll/roc-init/refs/heads/main/assets/cli-main.roc.template",
-    web: "https://raw.githubusercontent.com/nkxxll/roc-init/refs/heads/main/assets/web-main.roc.template",
+    cli: "https://raw.githubusercontent.com/nkxxll/roc-init/refs/heads/master/assets/cli-main.roc.template",
+    web: "https://raw.githubusercontent.com/nkxxll/roc-init/refs/heads/master/assets/web-main.roc.template",
 }
 
 get_template_file! = |config|
